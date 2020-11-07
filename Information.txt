@@ -1,0 +1,5 @@
+=================Employeee Management=======
+Employee: 1 Name: a Salary: 200.0
+Employee: 2 Name: b Salary: 300.0
+=================Customer Management=======
+
